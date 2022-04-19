@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Mars Pebbles
-date: 2022-04-19T12:31:59.663Z
+date: 2022-04-19 10:31:59 +0020
 categories: [blender, cycles]
 ---
 
